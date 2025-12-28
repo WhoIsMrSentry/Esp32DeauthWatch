@@ -23,6 +23,11 @@ A modular ESP32-based Smart Watch project that combines daily utility features w
 - **Spectrum Analyzer**: Visualizes 2.4GHz spectrum activity (requires NRF24L01+ module).
 - **Sniffer**: (Future) Packet sniffing capabilities.
 
+## 🖨️ 3D Case
+The project includes a 3D printable case design.
+- Check the [3d_models](./3d_models) directory for STL files.
+- Recommended material: PLA/PETG.
+
 ## 🛠 Hardware Architecture
 
 | Component | ESP32 Pin | Description |
